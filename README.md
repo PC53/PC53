@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Pavan Chhalani
-- 👀 I’m interested in ...
+- 👀 I’m interested in Artificial Intelligence and Web Development
 - 🌱 I’m currently studying Computer Science @ University of Edinburgh
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 email - chhalanipavan53@gmail.com
 
 <!---
 PC53/PC53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
