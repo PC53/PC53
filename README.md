@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Pavan Chhalani<br>👀 I’m interested in Building helpful software.<br>🌱 I’m currently studying Computer Science @ The University of Edinburgh<br>📫 email - chhalanipavan53@gmail.com<br>🔭 I’m currently working at DataAnnotation Tech<br>👯 I’m looking to collaborate on News Trading Application<br><br>
+👋 Hi, I’m Pavan Chhalani<br>👀 I’m interested in Building helpful software.<br>🌱 I have graduated from The University of Edinburgh<br>📫 email - chhalanipavan53@gmail.com<br>🔭 I’m currently working at DataAnnotation Tech<br>👯 I’m looking to collaborate on News Trading Application<br><br>
 
 
 ## 🌐 Socials:
